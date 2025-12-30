@@ -163,3 +163,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .vercel
+.cursor/rules/gitflow-rules.mdc
+On branch BCBranch
+Your branch is ahead of 'BC/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .gitignore
+
+no changes added to commit (use "git add" and/or "git commit -a")
